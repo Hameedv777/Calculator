@@ -1,0 +1,44 @@
+.calc{
+    width:350px;
+    height:550px;
+    background-color: #4D869C;
+    
+    margin-left: 500px;
+    border-radius: 15px;
+    
+    
+    
+
+}
+#scrn{
+    width:80%;
+    height: 100px;
+    margin-top: 20px;
+    
+    margin-left: 25px;
+    font-size:40px ;
+    border: solid gray;
+    padding: 3px;
+    border-radius: 5px;
+    
+    
+
+
+}
+.btn{
+    width: 65px;
+    height: 60px;
+    margin-left: 15px;
+
+    margin-top: 15px;
+    background-color: #EEF7FF;
+    color: #4D869C;
+    border-radius:3px;
+    font-size: 28px;
+    border:none;
+    
+    
+}
+.btn:hover{
+    background-color:skyblue;
+}
